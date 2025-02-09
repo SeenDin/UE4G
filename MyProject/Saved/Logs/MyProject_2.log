@@ -2829,3 +2829,143 @@ Script Stack (0 frames):
 [2025.02.09-15.58.59:432][718]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2025.02.09-15.59.14:032][463]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2025.02.09-15.59.55:158][386]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.01.54:766][527]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.09-16.01.54:777][527]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.09-16.01.59:136][ 38]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.02.04:162][640]LogContentBrowser: Attempting asset rename: NewFolder -> Main_character
+[2025.02.09-16.02.04:163][640]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.09-16.03.05:004][919]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.09-16.03.05:008][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.09-16.03.05:008][919]PIE: New page: PIE session: StartGame (Feb 9, 2025, 10:03:05 PM)
+[2025.02.09-16.03.05:035][919]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.03.05:037][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002390s)
+[2025.02.09-16.03.05:038][919]LogAIModule: Creating AISystem for world StartGame
+[2025.02.09-16.03.05:038][919]LogPlayLevel: PIE: World Init took: (0.001258s)
+[2025.02.09-16.03.05:038][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/StartGame.StartGame to /Game/Level/UEDPIE_0_StartGame.StartGame (0.003812s)
+[2025.02.09-16.03.05:071][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2025.02.09-16.03.05:075][919]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.02.09-16.03.05:075][919]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.09-16.03.05:075][919]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.09-16.03.05:075][919]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.09-16.03.05:075][919]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.09-16.03.05:075][919]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.09-16.03.05:075][919]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.09-16.03.05:075][919]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.09-16.03.05:075][919]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.09-16.03.05:075][919]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.09-16.03.05:075][919]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.09-16.03.05:075][919]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.09-16.03.05:075][919]LogAudioMixer: Display: Initializing audio mixer.
+[2025.02.09-16.03.05:126][919]LogAudioMixer: Display: 0: FrontLeft
+[2025.02.09-16.03.05:126][919]LogAudioMixer: Display: 1: FrontRight
+[2025.02.09-16.03.05:138][919]LogAudioMixer: Display: Using Audio Device Динамики (HyperX Quadcast)
+[2025.02.09-16.03.05:138][919]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.09-16.03.05:139][919]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.09-16.03.05:139][919]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.09-16.03.05:139][919]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.02.09-16.03.05:139][919]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.02.09-16.03.05:139][919]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.02.09-16.03.05:140][919]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.02.09-16.03.05:140][919]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.02.09-16.03.05:140][919]LogInit: FAudioDevice initialized.
+[2025.02.09-16.03.05:140][919]LogAudio: Display: Audio Device (ID: 14) registered with world 'StartGame'.
+[2025.02.09-16.03.05:151][919]LogLoad: Game class is 'GMB_in_game_C'
+[2025.02.09-16.03.05:152][919]LogPhysics: Warning: Scale for /Game/Level/UEDPIE_0_StartGame.StartGame:PersistentLevel.Cube_2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=6.000 Z=7.500
+[2025.02.09-16.03.05:152][919]LogWorld: Bringing World /Game/Level/UEDPIE_0_StartGame.StartGame up for play (max tick rate 0) at 2025.02.09-19.03.05
+[2025.02.09-16.03.05:152][919]LogWorld: Bringing up level for play took: 0.000563
+[2025.02.09-16.03.05:152][919]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2025.02.09-16.03.05:154][919]PIE: Server logged in
+[2025.02.09-16.03.05:155][919]PIE: Play in editor total start time 0.149 seconds.
+[2025.02.09-16.03.05:156][919]LogInput: Error: Duplicate mapping of key MouseY for axis LookUpDown
+[2025.02.09-16.03.05:156][919]LogInput: Error: Duplicate mapping of key MouseX for axis LookLeftRight
+[2025.02.09-16.03.10:646][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.03.10:646][571]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.03.10:646][571]LogWorld: UWorld::CleanupWorld for StartGame, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.03.10:646][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.03.10:655][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.09-16.03.10:660][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.03.10:685][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.03.10:685][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.03.10:686][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.03.10:691][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2025.02.09-16.03.10:733][573]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.02.09-16.03.43:415][483]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.03.55:904][976]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.04.16:139][946]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPerson_AnimBP.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.04.16:143][946]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPerson_IdleRun_2D.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.04.16:147][946]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPerson_Jump.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.04.16:151][946]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonIdle.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.04.16:154][946]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonJump_Loop.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.04.16:158][946]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonJump_Start.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.04.16:162][946]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonRun.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.04.16:165][946]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonWalk.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.00:157][637]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.05.06:401][692]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPerson_AnimBP.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.06:405][692]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPerson_IdleRun_2D.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.06:409][692]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPerson_Jump.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.06:413][692]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonIdle.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.06:416][692]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonJump_Loop.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.06:419][692]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonJump_Start.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.06:423][692]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonRun.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.06:427][692]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonWalk.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.13:218][277]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.05.21:717][838]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonJump_Loop.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.21:721][838]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonJump_Start.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.21:725][838]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonRun.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.21:730][838]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonWalk.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.21:734][838]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPerson_AnimBP.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.21:737][838]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPerson_IdleRun_2D.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.21:740][838]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPerson_Jump.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.21:745][838]LogAssetTools: Warning: Failed to import 'C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\123\ThirdPersonIdle.uasset'. Unknown extension 'uasset'.
+[2025.02.09-16.05.50:320][309]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.07.43:850][649]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.08.18:553][753]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.08.40:943][820]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.08.59:589][876]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.09.10:660][909]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.09.20:964][ 93]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.09.21:466][132]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ganic\Downloads\ThirdPersonExampleMap.fbx)
+[2025.02.09-16.09.21:701][132]LogFbx: Loading FBX Scene from C:\Users\ganic\Downloads\ThirdPersonExampleMap.fbx
+[2025.02.09-16.09.21:747][132]LogFbx: FBX Scene Loaded Succesfully
+[2025.02.09-16.09.25:524][132]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.02.09-16.09.25:630][132]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2025.02.09-16.09.25:634][132]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2025.02.09-16.09.26:077][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.02.09-16.09.26:079][132]FBXImport: Import was canceled. 
+[2025.02.09-16.09.26:146][132]LogAssetTools: The import task was canceled.
+[2025.02.09-16.09.27:604][281]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.09.27:609][281]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.09.33:364][701]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ganic\Downloads\ThirdPersonExampleMap.fbx)
+[2025.02.09-16.09.33:372][701]LogFbx: Loading FBX Scene from C:\Users\ganic\Downloads\ThirdPersonExampleMap.fbx
+[2025.02.09-16.09.33:381][701]LogFbx: FBX Scene Loaded Succesfully
+[2025.02.09-16.09.36:362][701]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.02.09-16.09.36:450][701]LogMaterial: Display: Missing cached shadermap for MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ED14CE0D502350D93449318D75ACA8E57BCAA2DE), compiling. 
+[2025.02.09-16.09.36:622][701]LogStaticMesh: Building static mesh ThirdPersonExampleMap...
+[2025.02.09-16.09.36:679][701]LogStaticMesh: Built static mesh [0.06s] /Game/Characters/Main_character/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2025.02.09-16.09.36:728][701]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.02.09-16.09.36:958][706]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.02.09-16.09.36:998][706]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2025.02.09-16.09.36:998][706]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2025.02.09-16.09.36:998][706]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.02.09-16.09.37:037][706]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2025.02.09-16.09.37:233][726]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2025.02.09-16.09.37:233][726]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2025.02.09-16.09.37:233][726]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2025.02.09-16.09.39:072][915]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2025.02.09-16.09.39:072][915]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2025.02.09-16.09.39:072][915]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.09-16.09.39:072][915]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2025.02.09-16.09.39:072][915]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2025.02.09-16.09.39:072][915]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2025.02.09-16.09.39:072][915]LogShaderCompilers: Display: ================================================
+[2025.02.09-16.09.39:352][940]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2025.02.09-16.09.39:352][940]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2025.02.09-16.09.39:392][944]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.09.39:401][944]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.09.40:689][ 18]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2025.02.09-16.09.40:689][ 18]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2025.02.09-16.09.40:719][ 20]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2025.02.09-16.09.40:719][ 20]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2025.02.09-16.09.44:301][343]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.10.29:360][478]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.10.44:727][524]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
