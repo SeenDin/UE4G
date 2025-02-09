@@ -2820,3 +2820,12 @@ Script Stack (0 frames):
 [2025.02.09-15.53.03:688][135]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2025.02.09-15.53.38:381][239]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2025.02.09-15.54.16:073][352]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.54.54:405][262]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.55.11:088][312]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.56.23:890][105]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.57.01:201][576]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.57.52:098][672]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.58.10:282][848]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.58.59:432][718]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.59.14:032][463]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.59.55:158][386]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
