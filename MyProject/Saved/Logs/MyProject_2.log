@@ -2969,3 +2969,1175 @@ Script Stack (0 frames):
 [2025.02.09-16.09.44:301][343]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2025.02.09-16.10.29:360][478]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2025.02.09-16.10.44:727][524]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.12.26:213][828]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.12.34:242][134]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2025.02.09-16.12.35:732][134]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.09-16.12.35:829][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.02.09-16.12.38:309][291]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\Ch14_nonPBR.fbx)
+[2025.02.09-16.12.38:376][291]LogFbx: Loading FBX Scene from C:\Users\ganic\OneDrive\Документы\Unreal Projects\UE4G\Ch14_nonPBR.fbx
+[2025.02.09-16.12.38:466][291]LogFbx: FBX Scene Loaded Succesfully
+[2025.02.09-16.12.46:181][291]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.02.09-16.12.46:266][291]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Ch14 : The relative matrices do not match
+[2025.02.09-16.12.46:267][291]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2025.02.09-16.12.46:267][291]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch14
+[2025.02.09-16.12.46:267][291]LogFbx: Warning: Recreating bind pose succeeded.
+[2025.02.09-16.12.46:285][291]LogMaterial: Display: Material /Game/Characters/Main_character/Ch14_Body.Ch14_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2025.02.09-16.12.46:286][291]LogMaterial: Display: Missing cached shadermap for Ch14_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 95C1CCA653A95D3B6E0B1A16714F617C8389ED17), compiling. 
+[2025.02.09-16.12.46:319][291]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2025.02.09-16.12.46:948][291]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2025.02.09-16.12.46:948][291]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2025.02.09-16.12.46:948][291]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2025.02.09-16.12.46:948][291]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2025.02.09-16.12.46:948][291]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2025.02.09-16.12.46:948][291]LogTexture: Display: Building textures: Ch14_1001_Diffuse (OODLE_AutoDXT, 4096X4096)
+[2025.02.09-16.12.48:212][291]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.02.09-16.12.48:212][291]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.02.09-16.12.48:212][291]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.02.09-16.12.48:635][291]LogTexture: Display: Building textures: Ch14_1001_Specular (OODLE_AutoDXT, 4096X4096)
+[2025.02.09-16.12.49:302][291]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.02.09-16.12.49:302][291]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.02.09-16.12.49:302][291]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.02.09-16.12.49:446][291]LogTexture: Display: Building textures: Ch14_1001_Glossiness (OODLE_AutoDXT, 4096X4096)
+[2025.02.09-16.12.50:350][291]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.02.09-16.12.50:350][291]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.02.09-16.12.50:350][291]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.02.09-16.12.50:948][291]LogTexture: Display: Building textures: Ch14_1001_Normal (OODLE_BC5, 4096X4096)
+[2025.02.09-16.12.51:529][291]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2025.02.09-16.12.51:529][291]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2025.02.09-16.12.51:529][291]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2025.02.09-16.12.51:583][291]LogMaterial: Display: Missing cached shadermap for Ch14_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 3886FED91A74C00029456A1F14648C5BFD1BF946), compiling. 
+[2025.02.09-16.12.51:619][291]LogFbx: Triangulating skeletal mesh Ch14
+[2025.02.09-16.12.51:965][291]LogFbx: Warning: Bones digested - 57  Depth of hierarchy - 12
+[2025.02.09-16.12.52:341][291]LogSkeletalMesh: Section 0: Material=0, 12174 triangles
+[2025.02.09-16.12.52:445][291]LogSkeletalMesh: Building Skeletal Mesh Ch14_nonPBR...
+[2025.02.09-16.12.52:683][291]LogSkeletalMesh: Section 0: Material=0, 12174 triangles
+[2025.02.09-16.12.52:707][291]LogSkeletalMesh: Built Skeletal Mesh [0.27s] /Game/Characters/Main_character/Ch14_nonPBR.Ch14_nonPBR
+[2025.02.09-16.12.52:741][291]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.09-16.12.52:741][291]LogShaderCompilers: Display: Total job queries 57, among them cache hits 9 (15.79%)
+[2025.02.09-16.12.52:741][291]LogShaderCompilers: Display: Tracking 48 distinct input hashes that result in 34 distinct outputs (70.83%)
+[2025.02.09-16.12.52:741][291]LogShaderCompilers: Display: RAM used: 0.18 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2025.02.09-16.12.52:741][291]LogShaderCompilers: Display: ================================================
+[2025.02.09-16.12.52:964][291]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.12.52:964][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.12.52:990][291]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.02.09-16.12.52:990][291]FBXImport: Warning: The following bones are missing from the bind pose:
+mixamorig:HeadTop_End  
+mixamorig:LeftHandThumb4  
+mixamorig:LeftHandIndex4  
+mixamorig:LeftHandMiddle4  
+mixamorig:LeftHandRing4  
+mixamorig:RightHandThumb4  
+mixamorig:RightHandIndex4  
+mixamorig:RightHandMiddle4  
+mixamorig:RightHandRing4  
+mixamorig:LeftToe_End  
+mixamorig:RightToe_End  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2025.02.09-16.12.53:199][295]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.02.09-16.12.53:199][295]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2025.02.09-16.12.53:199][295]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2025.02.09-16.12.53:199][295]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.02.09-16.12.53:311][298]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2025.02.09-16.12.53:311][298]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2025.02.09-16.12.53:311][298]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2025.02.09-16.12.53:311][298]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2025.02.09-16.12.53:337][298]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2025.02.09-16.12.53:623][319]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2025.02.09-16.12.53:623][319]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2025.02.09-16.12.53:826][337]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2025.02.09-16.12.53:826][337]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2025.02.09-16.12.53:889][342]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2025.02.09-16.12.53:889][342]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2025.02.09-16.12.54:100][362]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2025.02.09-16.12.54:100][362]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2025.02.09-16.12.55:625][499]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2025.02.09-16.12.55:625][499]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2025.02.09-16.12.55:956][528]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2025.02.09-16.12.55:956][528]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2025.02.09-16.12.56:395][568]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.12.56:404][568]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.12.56:838][599]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2025.02.09-16.12.56:838][599]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2025.02.09-16.12.57:349][638]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2025.02.09-16.12.57:349][638]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2025.02.09-16.12.57:605][648]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2025.02.09-16.12.57:605][648]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2025.02.09-16.14.05:675][435]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.14.59:314][736]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.15.20:576][868]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2025.02.09-16.15.20:576][868]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2025.02.09-16.16.24:228][253]BlueprintLog: New page: Compile BP_Character
+[2025.02.09-16.16.24:339][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2025.02.09-16.16.26:097][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/StartGame" FILE="C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Level/StartGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.09-16.16.26:125][438]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2025.02.09-16.16.26:132][438]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/StartGameB5F08F8246029C951A22C9ABBD94F2F5.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Level/StartGame.umap'
+[2025.02.09-16.16.26:138][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/StartGame_BuiltData" FILE="C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Level/StartGame_BuiltData.uasset" SILENT=true
+[2025.02.09-16.16.26:151][438]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/StartGame_BuiltDataA75E80844250F4540309009C52AD5F72.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Level/StartGame_BuiltData.uasset'
+[2025.02.09-16.16.26:167][438]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.09-16.16.26:167][438]LogContentValidation: Display: Validating World /Game/Level/StartGame.StartGame
+[2025.02.09-16.16.26:167][438]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/StartGame_BuiltData.StartGame_BuiltData
+[2025.02.09-16.16.28:427][691]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.09-16.16.28:432][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.09-16.16.28:432][691]PIE: New page: PIE session: StartGame (Feb 9, 2025, 10:16:28 PM)
+[2025.02.09-16.16.28:474][691]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.16.28:475][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001869s)
+[2025.02.09-16.16.28:476][691]LogAIModule: Creating AISystem for world StartGame
+[2025.02.09-16.16.28:476][691]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2025.02.09-16.16.28:476][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/StartGame.StartGame to /Game/Level/UEDPIE_0_StartGame.StartGame (0.003044s)
+[2025.02.09-16.16.28:504][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2025.02.09-16.16.28:505][691]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.02.09-16.16.28:505][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.09-16.16.28:505][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.09-16.16.28:505][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.09-16.16.28:505][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.09-16.16.28:505][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.09-16.16.28:505][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.09-16.16.28:505][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.09-16.16.28:505][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.09-16.16.28:506][691]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.09-16.16.28:506][691]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.09-16.16.28:506][691]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.09-16.16.28:506][691]LogAudioMixer: Display: Initializing audio mixer.
+[2025.02.09-16.16.28:545][691]LogAudioMixer: Display: 0: FrontLeft
+[2025.02.09-16.16.28:545][691]LogAudioMixer: Display: 1: FrontRight
+[2025.02.09-16.16.28:555][691]LogAudioMixer: Display: Using Audio Device Динамики (HyperX Quadcast)
+[2025.02.09-16.16.28:555][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.09-16.16.28:555][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.09-16.16.28:555][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.09-16.16.28:556][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.02.09-16.16.28:556][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.02.09-16.16.28:556][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.02.09-16.16.28:557][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.02.09-16.16.28:557][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.02.09-16.16.28:557][691]LogInit: FAudioDevice initialized.
+[2025.02.09-16.16.28:557][691]LogAudio: Display: Audio Device (ID: 15) registered with world 'StartGame'.
+[2025.02.09-16.16.28:567][691]LogLoad: Game class is 'GMB_in_game_C'
+[2025.02.09-16.16.28:568][691]LogPhysics: Warning: Scale for /Game/Level/UEDPIE_0_StartGame.StartGame:PersistentLevel.Cube_2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=6.000 Z=7.500
+[2025.02.09-16.16.28:568][691]LogWorld: Bringing World /Game/Level/UEDPIE_0_StartGame.StartGame up for play (max tick rate 0) at 2025.02.09-19.16.28
+[2025.02.09-16.16.28:568][691]LogWorld: Bringing up level for play took: 0.000475
+[2025.02.09-16.16.28:568][691]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2025.02.09-16.16.28:571][691]PIE: Server logged in
+[2025.02.09-16.16.28:571][691]PIE: Play in editor total start time 0.14 seconds.
+[2025.02.09-16.16.28:572][691]LogInput: Error: Duplicate mapping of key MouseY for axis LookUpDown
+[2025.02.09-16.16.28:572][691]LogInput: Error: Duplicate mapping of key MouseX for axis LookLeftRight
+[2025.02.09-16.16.39:075][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.16.39:075][941]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.16.39:076][941]LogWorld: UWorld::CleanupWorld for StartGame, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.16.39:076][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.16.39:081][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.09-16.16.39:086][941]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.16.39:111][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.16.39:111][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.16.39:112][941]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.16.39:117][941]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2025.02.09-16.16.39:157][943]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2025.02.09-16.16.42:400][331]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2025.02.09-16.16.42:400][331]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2025.02.09-16.16.58:518][207]BlueprintLog: New page: Compile BP_Character
+[2025.02.09-16.16.58:565][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2025.02.09-16.17.00:260][385]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.09-16.17.00:264][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.09-16.17.00:264][385]PIE: New page: PIE session: StartGame (Feb 9, 2025, 10:17:00 PM)
+[2025.02.09-16.17.00:304][385]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.17.00:305][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001728s)
+[2025.02.09-16.17.00:306][385]LogAIModule: Creating AISystem for world StartGame
+[2025.02.09-16.17.00:306][385]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2025.02.09-16.17.00:306][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/StartGame.StartGame to /Game/Level/UEDPIE_0_StartGame.StartGame (0.002859s)
+[2025.02.09-16.17.00:335][385]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2025.02.09-16.17.00:335][385]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.02.09-16.17.00:336][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.09-16.17.00:336][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.09-16.17.00:336][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.09-16.17.00:336][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.09-16.17.00:336][385]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.09-16.17.00:336][385]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.09-16.17.00:336][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.09-16.17.00:336][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.09-16.17.00:336][385]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.09-16.17.00:336][385]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.09-16.17.00:336][385]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.09-16.17.00:336][385]LogAudioMixer: Display: Initializing audio mixer.
+[2025.02.09-16.17.00:339][385]LogAudioMixer: Display: 0: FrontLeft
+[2025.02.09-16.17.00:339][385]LogAudioMixer: Display: 1: FrontRight
+[2025.02.09-16.17.00:349][385]LogAudioMixer: Display: Using Audio Device Динамики (HyperX Quadcast)
+[2025.02.09-16.17.00:349][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.09-16.17.00:349][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.09-16.17.00:349][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.09-16.17.00:349][385]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.02.09-16.17.00:349][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.02.09-16.17.00:349][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.02.09-16.17.00:351][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.02.09-16.17.00:351][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.02.09-16.17.00:351][385]LogInit: FAudioDevice initialized.
+[2025.02.09-16.17.00:351][385]LogAudio: Display: Audio Device (ID: 16) registered with world 'StartGame'.
+[2025.02.09-16.17.00:357][385]LogLoad: Game class is 'GMB_in_game_C'
+[2025.02.09-16.17.00:358][385]LogPhysics: Warning: Scale for /Game/Level/UEDPIE_0_StartGame.StartGame:PersistentLevel.Cube_2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=6.000 Z=7.500
+[2025.02.09-16.17.00:358][385]LogWorld: Bringing World /Game/Level/UEDPIE_0_StartGame.StartGame up for play (max tick rate 0) at 2025.02.09-19.17.00
+[2025.02.09-16.17.00:358][385]LogWorld: Bringing up level for play took: 0.000429
+[2025.02.09-16.17.00:358][385]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2025.02.09-16.17.00:361][385]PIE: Server logged in
+[2025.02.09-16.17.00:362][385]PIE: Play in editor total start time 0.099 seconds.
+[2025.02.09-16.17.00:362][385]LogInput: Error: Duplicate mapping of key MouseY for axis LookUpDown
+[2025.02.09-16.17.00:362][385]LogInput: Error: Duplicate mapping of key MouseX for axis LookLeftRight
+[2025.02.09-16.17.02:975][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.17.02:975][692]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.17.02:975][692]LogWorld: UWorld::CleanupWorld for StartGame, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.17.02:975][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.17.02:986][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.09-16.17.02:990][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.17.03:016][692]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.09-16.17.03:016][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.17.03:016][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.17.03:018][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.17.03:021][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2025.02.09-16.17.03:040][693]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.02.09-16.17.03:189][709]Cmd: SELECT NONE
+[2025.02.09-16.17.03:222][713]Cmd: SELECT NONE
+[2025.02.09-16.17.03:758][777]Cmd: SELECT NONE
+[2025.02.09-16.17.09:818][480]BlueprintLog: New page: Compile BP_Character
+[2025.02.09-16.17.09:868][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2025.02.09-16.17.11:948][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/StartGame" FILE="C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Level/StartGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.09-16.17.11:977][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2025.02.09-16.17.11:984][690]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/StartGame62D0A91C46033BBE7AF2DFBAD03D3150.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Level/StartGame.umap'
+[2025.02.09-16.17.11:989][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/StartGame_BuiltData" FILE="C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Level/StartGame_BuiltData.uasset" SILENT=true
+[2025.02.09-16.17.12:002][690]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/StartGame_BuiltData71B198C4438EAA49FA0B61A8AD777836.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Level/StartGame_BuiltData.uasset'
+[2025.02.09-16.17.12:027][690]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.09-16.17.12:027][690]LogContentValidation: Display: Validating World /Game/Level/StartGame.StartGame
+[2025.02.09-16.17.12:027][690]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/StartGame_BuiltData.StartGame_BuiltData
+[2025.02.09-16.17.12:719][754]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.09-16.17.12:723][754]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.09-16.17.12:723][754]PIE: New page: PIE session: StartGame (Feb 9, 2025, 10:17:12 PM)
+[2025.02.09-16.17.12:754][754]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.17.12:755][754]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001671s)
+[2025.02.09-16.17.12:756][754]LogAIModule: Creating AISystem for world StartGame
+[2025.02.09-16.17.12:757][754]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2025.02.09-16.17.12:757][754]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/StartGame.StartGame to /Game/Level/UEDPIE_0_StartGame.StartGame (0.002995s)
+[2025.02.09-16.17.12:784][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2025.02.09-16.17.12:784][754]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.02.09-16.17.12:784][754]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.09-16.17.12:784][754]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.09-16.17.12:784][754]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.09-16.17.12:784][754]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.09-16.17.12:784][754]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.09-16.17.12:784][754]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.09-16.17.12:784][754]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.09-16.17.12:784][754]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.09-16.17.12:784][754]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.09-16.17.12:784][754]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.09-16.17.12:784][754]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.09-16.17.12:784][754]LogAudioMixer: Display: Initializing audio mixer.
+[2025.02.09-16.17.12:788][754]LogAudioMixer: Display: 0: FrontLeft
+[2025.02.09-16.17.12:788][754]LogAudioMixer: Display: 1: FrontRight
+[2025.02.09-16.17.12:797][754]LogAudioMixer: Display: Using Audio Device Динамики (HyperX Quadcast)
+[2025.02.09-16.17.12:797][754]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.09-16.17.12:797][754]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.09-16.17.12:797][754]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.09-16.17.12:798][754]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.02.09-16.17.12:798][754]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.02.09-16.17.12:798][754]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.02.09-16.17.12:799][754]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.02.09-16.17.12:799][754]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.02.09-16.17.12:799][754]LogInit: FAudioDevice initialized.
+[2025.02.09-16.17.12:800][754]LogAudio: Display: Audio Device (ID: 17) registered with world 'StartGame'.
+[2025.02.09-16.17.12:805][754]LogLoad: Game class is 'GMB_in_game_C'
+[2025.02.09-16.17.12:806][754]LogPhysics: Warning: Scale for /Game/Level/UEDPIE_0_StartGame.StartGame:PersistentLevel.Cube_2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=6.000 Z=7.500
+[2025.02.09-16.17.12:806][754]LogWorld: Bringing World /Game/Level/UEDPIE_0_StartGame.StartGame up for play (max tick rate 0) at 2025.02.09-19.17.12
+[2025.02.09-16.17.12:806][754]LogWorld: Bringing up level for play took: 0.000532
+[2025.02.09-16.17.12:806][754]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2025.02.09-16.17.12:809][754]PIE: Server logged in
+[2025.02.09-16.17.12:810][754]PIE: Play in editor total start time 0.088 seconds.
+[2025.02.09-16.17.12:810][754]LogInput: Error: Duplicate mapping of key MouseY for axis LookUpDown
+[2025.02.09-16.17.12:810][754]LogInput: Error: Duplicate mapping of key MouseX for axis LookLeftRight
+[2025.02.09-16.17.23:355][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.17.23:355][  9]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.17.23:355][  9]LogWorld: UWorld::CleanupWorld for StartGame, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.17.23:355][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.17.23:365][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.09-16.17.23:370][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.17.23:394][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.17.23:394][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.17.23:395][  9]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.17.23:400][  9]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2025.02.09-16.17.23:423][ 10]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2025.02.09-16.17.28:995][641]BlueprintLog: New page: Compile BP_Character
+[2025.02.09-16.17.29:044][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2025.02.09-16.17.30:527][790]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.09-16.17.30:531][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.09-16.17.30:531][790]PIE: New page: PIE session: StartGame (Feb 9, 2025, 10:17:30 PM)
+[2025.02.09-16.17.30:574][790]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.17.30:576][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001883s)
+[2025.02.09-16.17.30:576][790]LogAIModule: Creating AISystem for world StartGame
+[2025.02.09-16.17.30:577][790]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2025.02.09-16.17.30:577][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/StartGame.StartGame to /Game/Level/UEDPIE_0_StartGame.StartGame (0.003098s)
+[2025.02.09-16.17.30:605][790]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2025.02.09-16.17.30:606][790]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2025.02.09-16.17.30:606][790]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.09-16.17.30:606][790]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.09-16.17.30:606][790]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.09-16.17.30:606][790]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.09-16.17.30:606][790]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.09-16.17.30:606][790]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.09-16.17.30:606][790]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.09-16.17.30:606][790]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.09-16.17.30:606][790]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.09-16.17.30:606][790]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.09-16.17.30:606][790]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.09-16.17.30:606][790]LogAudioMixer: Display: Initializing audio mixer.
+[2025.02.09-16.17.30:610][790]LogAudioMixer: Display: 0: FrontLeft
+[2025.02.09-16.17.30:610][790]LogAudioMixer: Display: 1: FrontRight
+[2025.02.09-16.17.30:619][790]LogAudioMixer: Display: Using Audio Device Динамики (HyperX Quadcast)
+[2025.02.09-16.17.30:620][790]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.09-16.17.30:620][790]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.09-16.17.30:620][790]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.09-16.17.30:620][790]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.02.09-16.17.30:620][790]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.02.09-16.17.30:620][790]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.02.09-16.17.30:621][790]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.02.09-16.17.30:621][790]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.02.09-16.17.30:621][790]LogInit: FAudioDevice initialized.
+[2025.02.09-16.17.30:621][790]LogAudio: Display: Audio Device (ID: 18) registered with world 'StartGame'.
+[2025.02.09-16.17.30:634][790]LogLoad: Game class is 'GMB_in_game_C'
+[2025.02.09-16.17.30:634][790]LogPhysics: Warning: Scale for /Game/Level/UEDPIE_0_StartGame.StartGame:PersistentLevel.Cube_2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=6.000 Z=7.500
+[2025.02.09-16.17.30:634][790]LogWorld: Bringing World /Game/Level/UEDPIE_0_StartGame.StartGame up for play (max tick rate 0) at 2025.02.09-19.17.30
+[2025.02.09-16.17.30:635][790]LogWorld: Bringing up level for play took: 0.000608
+[2025.02.09-16.17.30:635][790]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2025.02.09-16.17.30:638][790]PIE: Server logged in
+[2025.02.09-16.17.30:638][790]PIE: Play in editor total start time 0.108 seconds.
+[2025.02.09-16.17.30:639][790]LogInput: Error: Duplicate mapping of key MouseY for axis LookUpDown
+[2025.02.09-16.17.30:639][790]LogInput: Error: Duplicate mapping of key MouseX for axis LookLeftRight
+[2025.02.09-16.17.40:965][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.17.40:965][ 16]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.17.40:965][ 16]LogWorld: UWorld::CleanupWorld for StartGame, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.17.40:965][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.17.40:972][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.09-16.17.40:977][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.17.41:002][ 16]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.09-16.17.41:002][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.17.41:003][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.17.41:004][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.17.41:008][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2025.02.09-16.17.41:028][ 17]Cmd: SELECT NONE
+[2025.02.09-16.17.41:054][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2025.02.09-16.17.50:637][144]BlueprintLog: New page: Compile BP_Character
+[2025.02.09-16.17.50:684][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2025.02.09-16.17.51:886][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Character" FILE="C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Characters/BP_Character.uasset" SILENT=true
+[2025.02.09-16.17.51:905][240]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/BP_Character968D3F2B4FFA82F0000D10B0FCCDE7F5.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Characters/BP_Character.uasset'
+[2025.02.09-16.17.51:920][240]AssetCheck: New page: Asset Save: BP_Character
+[2025.02.09-16.17.51:920][240]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Character.BP_Character
+[2025.02.09-16.17.54:077][480]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.09-16.17.54:081][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.09-16.17.54:081][480]PIE: New page: PIE session: StartGame (Feb 9, 2025, 10:17:54 PM)
+[2025.02.09-16.17.54:103][480]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.17.54:106][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001764s)
+[2025.02.09-16.17.54:106][480]LogAIModule: Creating AISystem for world StartGame
+[2025.02.09-16.17.54:107][480]LogPlayLevel: PIE: World Init took: (0.001151s)
+[2025.02.09-16.17.54:107][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/StartGame.StartGame to /Game/Level/UEDPIE_0_StartGame.StartGame (0.003050s)
+[2025.02.09-16.17.54:135][480]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2025.02.09-16.17.54:136][480]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.02.09-16.17.54:136][480]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.09-16.17.54:136][480]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.09-16.17.54:136][480]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.09-16.17.54:136][480]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.09-16.17.54:136][480]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.09-16.17.54:136][480]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.09-16.17.54:136][480]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.09-16.17.54:136][480]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.09-16.17.54:136][480]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.09-16.17.54:136][480]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.09-16.17.54:136][480]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.09-16.17.54:136][480]LogAudioMixer: Display: Initializing audio mixer.
+[2025.02.09-16.17.54:139][480]LogAudioMixer: Display: 0: FrontLeft
+[2025.02.09-16.17.54:139][480]LogAudioMixer: Display: 1: FrontRight
+[2025.02.09-16.17.54:149][480]LogAudioMixer: Display: Using Audio Device Динамики (HyperX Quadcast)
+[2025.02.09-16.17.54:149][480]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.09-16.17.54:149][480]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.09-16.17.54:149][480]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.09-16.17.54:149][480]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.02.09-16.17.54:149][480]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.02.09-16.17.54:149][480]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.02.09-16.17.54:151][480]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.02.09-16.17.54:151][480]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.02.09-16.17.54:151][480]LogInit: FAudioDevice initialized.
+[2025.02.09-16.17.54:151][480]LogAudio: Display: Audio Device (ID: 19) registered with world 'StartGame'.
+[2025.02.09-16.17.54:158][480]LogLoad: Game class is 'GMB_in_game_C'
+[2025.02.09-16.17.54:159][480]LogPhysics: Warning: Scale for /Game/Level/UEDPIE_0_StartGame.StartGame:PersistentLevel.Cube_2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=6.000 Z=7.500
+[2025.02.09-16.17.54:159][480]LogWorld: Bringing World /Game/Level/UEDPIE_0_StartGame.StartGame up for play (max tick rate 0) at 2025.02.09-19.17.54
+[2025.02.09-16.17.54:159][480]LogWorld: Bringing up level for play took: 0.000499
+[2025.02.09-16.17.54:159][480]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2025.02.09-16.17.54:162][480]PIE: Server logged in
+[2025.02.09-16.17.54:163][480]PIE: Play in editor total start time 0.083 seconds.
+[2025.02.09-16.17.54:163][480]LogInput: Error: Duplicate mapping of key MouseY for axis LookUpDown
+[2025.02.09-16.17.54:163][480]LogInput: Error: Duplicate mapping of key MouseX for axis LookLeftRight
+[2025.02.09-16.18.07:464][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.18.07:465][ 62]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.18.07:465][ 62]LogWorld: UWorld::CleanupWorld for StartGame, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.18.07:465][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.18.07:475][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.09-16.18.07:480][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.18.07:505][ 62]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.09-16.18.07:506][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.18.07:507][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.18.07:509][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.18.07:513][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2025.02.09-16.18.07:533][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2025.02.09-16.18.12:228][592]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.18.12:356][607]BlueprintLog: New page: Compile BP_Character
+[2025.02.09-16.18.12:408][607]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2025.02.09-16.18.13:560][709]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.09-16.18.13:564][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.09-16.18.13:564][709]PIE: New page: PIE session: StartGame (Feb 9, 2025, 10:18:13 PM)
+[2025.02.09-16.18.13:604][709]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.18.13:605][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001688s)
+[2025.02.09-16.18.13:606][709]LogAIModule: Creating AISystem for world StartGame
+[2025.02.09-16.18.13:606][709]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2025.02.09-16.18.13:606][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/StartGame.StartGame to /Game/Level/UEDPIE_0_StartGame.StartGame (0.002943s)
+[2025.02.09-16.18.13:634][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2025.02.09-16.18.13:635][709]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.02.09-16.18.13:635][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.09-16.18.13:635][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.09-16.18.13:635][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.09-16.18.13:635][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.09-16.18.13:635][709]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.09-16.18.13:635][709]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.09-16.18.13:635][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.09-16.18.13:635][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.09-16.18.13:636][709]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.09-16.18.13:636][709]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.09-16.18.13:636][709]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.09-16.18.13:636][709]LogAudioMixer: Display: Initializing audio mixer.
+[2025.02.09-16.18.13:639][709]LogAudioMixer: Display: 0: FrontLeft
+[2025.02.09-16.18.13:639][709]LogAudioMixer: Display: 1: FrontRight
+[2025.02.09-16.18.13:648][709]LogAudioMixer: Display: Using Audio Device Динамики (HyperX Quadcast)
+[2025.02.09-16.18.13:648][709]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.09-16.18.13:648][709]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.09-16.18.13:648][709]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.09-16.18.13:648][709]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.02.09-16.18.13:648][709]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.02.09-16.18.13:648][709]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.02.09-16.18.13:650][709]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.02.09-16.18.13:650][709]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.02.09-16.18.13:650][709]LogInit: FAudioDevice initialized.
+[2025.02.09-16.18.13:650][709]LogAudio: Display: Audio Device (ID: 20) registered with world 'StartGame'.
+[2025.02.09-16.18.13:658][709]LogLoad: Game class is 'GMB_in_game_C'
+[2025.02.09-16.18.13:659][709]LogPhysics: Warning: Scale for /Game/Level/UEDPIE_0_StartGame.StartGame:PersistentLevel.Cube_2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=6.000 Z=7.500
+[2025.02.09-16.18.13:659][709]LogWorld: Bringing World /Game/Level/UEDPIE_0_StartGame.StartGame up for play (max tick rate 0) at 2025.02.09-19.18.13
+[2025.02.09-16.18.13:659][709]LogWorld: Bringing up level for play took: 0.000445
+[2025.02.09-16.18.13:659][709]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2025.02.09-16.18.13:661][709]PIE: Server logged in
+[2025.02.09-16.18.13:662][709]PIE: Play in editor total start time 0.099 seconds.
+[2025.02.09-16.18.13:662][709]LogInput: Error: Duplicate mapping of key MouseY for axis LookUpDown
+[2025.02.09-16.18.13:662][709]LogInput: Error: Duplicate mapping of key MouseX for axis LookLeftRight
+[2025.02.09-16.18.22:654][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.18.22:654][781]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.18.22:655][781]LogWorld: UWorld::CleanupWorld for StartGame, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.18.22:655][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.18.22:667][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.09-16.18.22:673][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.18.22:700][781]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.09-16.18.22:700][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.18.22:702][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.18.22:704][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.18.22:708][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2025.02.09-16.18.22:728][782]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2025.02.09-16.18.22:750][783]Cmd: SELECT NONE
+[2025.02.09-16.18.30:948][701]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-16.18.56:681][362]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Main_character/Ch14_nonPBR.Ch14_nonPBR
+[2025.02.09-16.18.56:853][362]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2025.02.09-16.18.56:896][362]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2025.02.09-16.18.57:177][362]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2025.02.09-16.18.57:523][362]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.09-16.18.57:643][362]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2025.02.09-16.19.03:125][875]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2025.02.09-16.19.13:994][118]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.19.13:994][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.23.29:917][570]Cmd: MODE GRID=0
+[2025.02.09-16.23.31:625][767]Cmd: MODE GRID=1
+[2025.02.09-16.23.32:592][878]Cmd: MODE GRID=0
+[2025.02.09-16.24.11:834][527]Cmd: MODE GRID=1
+[2025.02.09-16.26.04:409][833]BlueprintLog: New page: Compile BP_Character
+[2025.02.09-16.26.04:741][833]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2025.02.09-16.26.06:118][972]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.09-16.26.06:122][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.09-16.26.06:122][972]PIE: New page: PIE session: StartGame (Feb 9, 2025, 10:26:06 PM)
+[2025.02.09-16.26.06:153][972]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.26.06:155][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001868s)
+[2025.02.09-16.26.06:156][972]LogAIModule: Creating AISystem for world StartGame
+[2025.02.09-16.26.06:156][972]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2025.02.09-16.26.06:156][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/StartGame.StartGame to /Game/Level/UEDPIE_0_StartGame.StartGame (0.003112s)
+[2025.02.09-16.26.06:202][972]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2025.02.09-16.26.06:203][972]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.02.09-16.26.06:203][972]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.09-16.26.06:203][972]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.09-16.26.06:203][972]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.09-16.26.06:203][972]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.09-16.26.06:203][972]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.09-16.26.06:203][972]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.09-16.26.06:203][972]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.09-16.26.06:203][972]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.09-16.26.06:204][972]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.09-16.26.06:204][972]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.09-16.26.06:204][972]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.09-16.26.06:204][972]LogAudioMixer: Display: Initializing audio mixer.
+[2025.02.09-16.26.06:207][972]LogAudioMixer: Display: 0: FrontLeft
+[2025.02.09-16.26.06:207][972]LogAudioMixer: Display: 1: FrontRight
+[2025.02.09-16.26.06:217][972]LogAudioMixer: Display: Using Audio Device Динамики (HyperX Quadcast)
+[2025.02.09-16.26.06:217][972]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.09-16.26.06:217][972]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.09-16.26.06:217][972]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.09-16.26.06:218][972]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.02.09-16.26.06:218][972]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.02.09-16.26.06:218][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.02.09-16.26.06:219][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.02.09-16.26.06:219][972]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.02.09-16.26.06:219][972]LogInit: FAudioDevice initialized.
+[2025.02.09-16.26.06:219][972]LogAudio: Display: Audio Device (ID: 21) registered with world 'StartGame'.
+[2025.02.09-16.26.06:225][972]LogLoad: Game class is 'GMB_in_game_C'
+[2025.02.09-16.26.06:225][972]LogPhysics: Warning: Scale for /Game/Level/UEDPIE_0_StartGame.StartGame:PersistentLevel.Cube_2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=6.000 Z=7.500
+[2025.02.09-16.26.06:225][972]LogWorld: Bringing World /Game/Level/UEDPIE_0_StartGame.StartGame up for play (max tick rate 0) at 2025.02.09-19.26.06
+[2025.02.09-16.26.06:225][972]LogWorld: Bringing up level for play took: 0.000463
+[2025.02.09-16.26.06:226][972]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2025.02.09-16.26.06:228][972]PIE: Server logged in
+[2025.02.09-16.26.06:229][972]PIE: Play in editor total start time 0.108 seconds.
+[2025.02.09-16.26.06:230][972]LogInput: Error: Duplicate mapping of key MouseY for axis LookUpDown
+[2025.02.09-16.26.06:230][972]LogInput: Error: Duplicate mapping of key MouseX for axis LookLeftRight
+[2025.02.09-16.26.33:784][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.26.33:784][259]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.26.33:784][259]LogWorld: UWorld::CleanupWorld for StartGame, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.26.33:784][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.26.33:795][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.09-16.26.33:801][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.26.33:830][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.26.33:830][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.26.33:830][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.26.33:836][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2025.02.09-16.26.33:855][260]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2025.02.09-16.28.44:367][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2025.02.09-16.28.44:368][946]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/StartGame' took 0.036
+[2025.02.09-16.28.44:369][946]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/BP_Character] ([2] browsable assets)...
+[2025.02.09-16.28.44:390][946]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/BP_Character.BP_Character]
+[2025.02.09-16.28.44:390][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_Character]
+[2025.02.09-16.28.44:407][946]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/BP_Character_Auto4C5D884D843861E5357742C9FB673DFE4.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/Autosaves/Game/Characters/BP_Character_Auto4.uasset'
+[2025.02.09-16.28.44:408][946]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Main_character/Ch14_nonPBR] ([1] browsable assets)...
+[2025.02.09-16.28.44:424][946]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/Main_character/Ch14_nonPBR.Ch14_nonPBR]
+[2025.02.09-16.28.44:424][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Main_character/Ch14_nonPBR]
+[2025.02.09-16.28.44:478][946]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/Ch14_nonPBR_Auto4CAB37660433F74B3DF283D929CEFF531.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/Autosaves/Game/Characters/Main_character/Ch14_nonPBR_Auto4.uasset'
+[2025.02.09-16.28.44:479][946]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Main_character/Ch14_nonPBR_Skeleton] ([1] browsable assets)...
+[2025.02.09-16.28.44:479][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Main_character/Ch14_nonPBR_Skeleton]
+[2025.02.09-16.28.44:480][946]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/Ch14_nonPBR_Skeleton_Auto400A4DB6648C67BEE5E452F8DDF026B69.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/Autosaves/Game/Characters/Main_character/Ch14_nonPBR_Skeleton_Auto4.uasset'
+[2025.02.09-16.28.44:481][946]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Main_character/Ch14_nonPBR_PhysicsAsset] ([1] browsable assets)...
+[2025.02.09-16.28.44:512][946]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Characters/Main_character/Ch14_nonPBR_PhysicsAsset.Ch14_nonPBR_PhysicsAsset]
+[2025.02.09-16.28.44:512][946]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Main_character/Ch14_nonPBR_PhysicsAsset]
+[2025.02.09-16.28.44:520][946]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/Ch14_nonPBR_PhysicsAsset_Auto40E684DEA4D52477F5BB19DA2B0955B14.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/Autosaves/Game/Characters/Main_character/Ch14_nonPBR_PhysicsAsset_Auto4.uasset'
+[2025.02.09-16.28.44:520][946]LogFileHelpers: Auto-saving content packages took 0.151
+[2025.02.09-16.36.24:170][196]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.09-16.36.24:201][196]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.09-16.36.27:515][594]LogContentBrowser: Attempting asset rename: NewFolder -> Animation
+[2025.02.09-16.36.27:516][594]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.09-16.36.38:010][ 58]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ganic\Downloads\Walking Backwards.fbx)
+[2025.02.09-16.36.38:018][ 58]LogFbx: Loading FBX Scene from C:\Users\ganic\Downloads\Walking Backwards.fbx
+[2025.02.09-16.36.38:040][ 58]LogFbx: FBX Scene Loaded Succesfully
+[2025.02.09-16.36.59:897][ 58]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(0) Hips
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(1) Spine
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(2) Spine1
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(3) Spine2
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(4) Neck
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(5) Head
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(6) HeadTop_End
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(7) LeftShoulder
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(8) LeftArm
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(9) LeftForeArm
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(10) LeftHand
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(23) LeftHandRing1
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(24) LeftHandRing2
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(25) LeftHandRing3
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(26) LeftHandRing4
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(31) RightShoulder
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(32) RightArm
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(33) RightForeArm
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(34) RightHand
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(35) RightHandThumb1
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(36) RightHandThumb2
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(37) RightHandThumb3
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(38) RightHandThumb4
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(39) RightHandIndex1
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(40) RightHandIndex2
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(41) RightHandIndex3
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(42) RightHandIndex4
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(47) RightHandRing1
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(48) RightHandRing2
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(49) RightHandRing3
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(50) RightHandRing4
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(51) RightHandPinky1
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(52) RightHandPinky2
+[2025.02.09-16.36.59:954][ 58]LogFbx: SortedLinks :(53) RightHandPinky3
+[2025.02.09-16.36.59:955][ 58]LogFbx: SortedLinks :(54) RightHandPinky4
+[2025.02.09-16.36.59:955][ 58]LogFbx: SortedLinks :(55) LeftUpLeg
+[2025.02.09-16.36.59:955][ 58]LogFbx: SortedLinks :(56) LeftLeg
+[2025.02.09-16.36.59:955][ 58]LogFbx: SortedLinks :(57) LeftFoot
+[2025.02.09-16.36.59:955][ 58]LogFbx: SortedLinks :(58) LeftToeBase
+[2025.02.09-16.36.59:955][ 58]LogFbx: SortedLinks :(59) LeftToe_End
+[2025.02.09-16.36.59:955][ 58]LogFbx: SortedLinks :(60) RightUpLeg
+[2025.02.09-16.36.59:955][ 58]LogFbx: SortedLinks :(61) RightLeg
+[2025.02.09-16.36.59:955][ 58]LogFbx: SortedLinks :(62) RightFoot
+[2025.02.09-16.36.59:955][ 58]LogFbx: SortedLinks :(63) RightToeBase
+[2025.02.09-16.36.59:955][ 58]LogFbx: SortedLinks :(64) RightToe_End
+[2025.02.09-16.36.59:971][ 58]LogFbx: Parsing AnimStack mixamo.com
+[2025.02.09-16.37.00:208][ 58]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_character/Animation/Walking_Backwards.Walking_Backwards
+[2025.02.09-16.37.00:209][ 58]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Ch14_nonPBR_Skeleton.  Any animation on these bones will not be imported: 
+
+ LeftHandPinky1  
+LeftHandPinky2  
+LeftHandPinky3  
+LeftHandPinky4  
+RightHandPinky1  
+RightHandPinky2  
+RightHandPinky3  
+RightHandPinky4  
+ 
+[2025.02.09-16.37.00:281][ 58]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_character/Animation/Walking_Backwards.Walking_Backwards
+[2025.02.09-16.37.00:281][ 58]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\ganic\Downloads\Running.fbx)
+[2025.02.09-16.37.00:313][ 58]LogFbx: Loading FBX Scene from C:\Users\ganic\Downloads\Running.fbx
+[2025.02.09-16.37.00:335][ 58]LogFbx: FBX Scene Loaded Succesfully
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(0) Hips
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(1) Spine
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(2) Spine1
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(3) Spine2
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(4) Neck
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(5) Head
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(6) HeadTop_End
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(7) LeftShoulder
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(8) LeftArm
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(9) LeftForeArm
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(10) LeftHand
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(23) LeftHandRing1
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(24) LeftHandRing2
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(25) LeftHandRing3
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(26) LeftHandRing4
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(31) RightShoulder
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(32) RightArm
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(33) RightForeArm
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(34) RightHand
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(35) RightHandThumb1
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(36) RightHandThumb2
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(37) RightHandThumb3
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(38) RightHandThumb4
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(39) RightHandIndex1
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(40) RightHandIndex2
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(41) RightHandIndex3
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(42) RightHandIndex4
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(47) RightHandRing1
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(48) RightHandRing2
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(49) RightHandRing3
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(50) RightHandRing4
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(51) RightHandPinky1
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(52) RightHandPinky2
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(53) RightHandPinky3
+[2025.02.09-16.37.00:337][ 58]LogFbx: SortedLinks :(54) RightHandPinky4
+[2025.02.09-16.37.00:338][ 58]LogFbx: SortedLinks :(55) LeftUpLeg
+[2025.02.09-16.37.00:338][ 58]LogFbx: SortedLinks :(56) LeftLeg
+[2025.02.09-16.37.00:338][ 58]LogFbx: SortedLinks :(57) LeftFoot
+[2025.02.09-16.37.00:338][ 58]LogFbx: SortedLinks :(58) LeftToeBase
+[2025.02.09-16.37.00:338][ 58]LogFbx: SortedLinks :(59) LeftToe_End
+[2025.02.09-16.37.00:338][ 58]LogFbx: SortedLinks :(60) RightUpLeg
+[2025.02.09-16.37.00:338][ 58]LogFbx: SortedLinks :(61) RightLeg
+[2025.02.09-16.37.00:338][ 58]LogFbx: SortedLinks :(62) RightFoot
+[2025.02.09-16.37.00:338][ 58]LogFbx: SortedLinks :(63) RightToeBase
+[2025.02.09-16.37.00:338][ 58]LogFbx: SortedLinks :(64) RightToe_End
+[2025.02.09-16.37.00:338][ 58]LogFbx: Parsing AnimStack mixamo.com
+[2025.02.09-16.37.00:402][ 58]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Ch14_nonPBR_Skeleton.  Any animation on these bones will not be imported: 
+
+ LeftHandPinky1  
+LeftHandPinky2  
+LeftHandPinky3  
+LeftHandPinky4  
+RightHandPinky1  
+RightHandPinky2  
+RightHandPinky3  
+RightHandPinky4  
+ 
+[2025.02.09-16.37.00:415][ 58]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\ganic\Downloads\Walking (1).fbx)
+[2025.02.09-16.37.00:423][ 58]LogFbx: Loading FBX Scene from C:\Users\ganic\Downloads\Walking (1).fbx
+[2025.02.09-16.37.00:446][ 58]LogFbx: FBX Scene Loaded Succesfully
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(0) Hips
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(1) Spine
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(2) Spine1
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(3) Spine2
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(4) Neck
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(5) Head
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(6) HeadTop_End
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(7) LeftShoulder
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(8) LeftArm
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(9) LeftForeArm
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(10) LeftHand
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2025.02.09-16.37.00:447][ 58]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(23) LeftHandRing1
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(24) LeftHandRing2
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(25) LeftHandRing3
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(26) LeftHandRing4
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(31) RightShoulder
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(32) RightArm
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(33) RightForeArm
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(34) RightHand
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(35) RightHandThumb1
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(36) RightHandThumb2
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(37) RightHandThumb3
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(38) RightHandThumb4
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(39) RightHandIndex1
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(40) RightHandIndex2
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(41) RightHandIndex3
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(42) RightHandIndex4
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(47) RightHandRing1
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(48) RightHandRing2
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(49) RightHandRing3
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(50) RightHandRing4
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(51) RightHandPinky1
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(52) RightHandPinky2
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(53) RightHandPinky3
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(54) RightHandPinky4
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(55) LeftUpLeg
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(56) LeftLeg
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(57) LeftFoot
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(58) LeftToeBase
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(59) LeftToe_End
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(60) RightUpLeg
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(61) RightLeg
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(62) RightFoot
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(63) RightToeBase
+[2025.02.09-16.37.00:448][ 58]LogFbx: SortedLinks :(64) RightToe_End
+[2025.02.09-16.37.00:448][ 58]LogFbx: Parsing AnimStack mixamo.com
+[2025.02.09-16.37.00:541][ 58]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Ch14_nonPBR_Skeleton.  Any animation on these bones will not be imported: 
+
+ LeftHandPinky1  
+LeftHandPinky2  
+LeftHandPinky3  
+LeftHandPinky4  
+RightHandPinky1  
+RightHandPinky2  
+RightHandPinky3  
+RightHandPinky4  
+ 
+[2025.02.09-16.37.00:556][ 58]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 C:\Users\ganic\Downloads\Breathing Idle.fbx)
+[2025.02.09-16.37.00:565][ 58]LogFbx: Loading FBX Scene from C:\Users\ganic\Downloads\Breathing Idle.fbx
+[2025.02.09-16.37.00:602][ 58]LogFbx: FBX Scene Loaded Succesfully
+[2025.02.09-16.37.00:603][ 58]LogFbx: SortedLinks :(0) Hips
+[2025.02.09-16.37.00:603][ 58]LogFbx: SortedLinks :(1) Spine
+[2025.02.09-16.37.00:603][ 58]LogFbx: SortedLinks :(2) Spine1
+[2025.02.09-16.37.00:603][ 58]LogFbx: SortedLinks :(3) Spine2
+[2025.02.09-16.37.00:603][ 58]LogFbx: SortedLinks :(4) Neck
+[2025.02.09-16.37.00:603][ 58]LogFbx: SortedLinks :(5) Head
+[2025.02.09-16.37.00:603][ 58]LogFbx: SortedLinks :(6) HeadTop_End
+[2025.02.09-16.37.00:603][ 58]LogFbx: SortedLinks :(7) LeftShoulder
+[2025.02.09-16.37.00:603][ 58]LogFbx: SortedLinks :(8) LeftArm
+[2025.02.09-16.37.00:603][ 58]LogFbx: SortedLinks :(9) LeftForeArm
+[2025.02.09-16.37.00:603][ 58]LogFbx: SortedLinks :(10) LeftHand
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(23) LeftHandRing1
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(24) LeftHandRing2
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(25) LeftHandRing3
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(26) LeftHandRing4
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(31) RightShoulder
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(32) RightArm
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(33) RightForeArm
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(34) RightHand
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(35) RightHandThumb1
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(36) RightHandThumb2
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(37) RightHandThumb3
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(38) RightHandThumb4
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(39) RightHandIndex1
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(40) RightHandIndex2
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(41) RightHandIndex3
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(42) RightHandIndex4
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(47) RightHandRing1
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(48) RightHandRing2
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(49) RightHandRing3
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(50) RightHandRing4
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(51) RightHandPinky1
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(52) RightHandPinky2
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(53) RightHandPinky3
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(54) RightHandPinky4
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(55) LeftUpLeg
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(56) LeftLeg
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(57) LeftFoot
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(58) LeftToeBase
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(59) LeftToe_End
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(60) RightUpLeg
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(61) RightLeg
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(62) RightFoot
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(63) RightToeBase
+[2025.02.09-16.37.00:604][ 58]LogFbx: SortedLinks :(64) RightToe_End
+[2025.02.09-16.37.00:605][ 58]LogFbx: Parsing AnimStack mixamo.com
+[2025.02.09-16.37.01:268][ 58]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Ch14_nonPBR_Skeleton.  Any animation on these bones will not be imported: 
+
+ LeftHandPinky1  
+LeftHandPinky2  
+LeftHandPinky3  
+LeftHandPinky4  
+RightHandPinky1  
+RightHandPinky2  
+RightHandPinky3  
+RightHandPinky4  
+ 
+[2025.02.09-16.37.01:354][ 59]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_character/Animation/Walking__1_.Walking__1_
+[2025.02.09-16.37.01:354][ 59]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_character/Animation/Breathing_Idle.Breathing_Idle
+[2025.02.09-16.37.01:519][ 63]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_character/Animation/Running.Running
+[2025.02.09-16.37.04:476][405]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.37.04:481][405]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.37.17:612][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/StartGame" FILE="C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Level/StartGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.09-16.37.17:647][536]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2025.02.09-16.37.17:659][536]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/StartGame8EB7A52E4F62E800DCAA7B97B1A16FD3.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Level/StartGame.umap'
+[2025.02.09-16.37.17:665][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/StartGame_BuiltData" FILE="C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Level/StartGame_BuiltData.uasset" SILENT=true
+[2025.02.09-16.37.17:678][536]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/StartGame_BuiltDataE94207CB4842FF5D6724CDB4733BA2C8.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Level/StartGame_BuiltData.uasset'
+[2025.02.09-16.37.17:693][536]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.09-16.37.17:693][536]LogContentValidation: Display: Validating World /Game/Level/StartGame.StartGame
+[2025.02.09-16.37.17:693][536]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/StartGame_BuiltData.StartGame_BuiltData
+[2025.02.09-16.37.52:382][ 69]LogSlate: Window 'Pick Skeleton' being destroyed
+[2025.02.09-16.37.52:394][ 69]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2025.02.09-16.37.52:406][ 69]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2025.02.09-16.38.06:520][759]LogContentBrowser: Attempting asset rename: NewBlendSpace -> BS_Animation
+[2025.02.09-16.38.06:541][759]LogContentBrowser: End creating deferred item NewBlendSpace
+[2025.02.09-16.38.08:329][940]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Characters/Main_character/Animation/BS_Animation.BS_Animation
+[2025.02.09-16.38.08:459][940]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.09-16.38.09:117][940]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2025.02.09-16.45.36:618][804]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2025.02.09-16.45.38:234][804]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.09-16.45.40:849][804]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.45.40:849][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.45.40:882][804]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.45.40:882][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.45.40:904][804]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Main_character/Animation/Running.Running
+[2025.02.09-16.45.41:829][804]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2025.02.09-16.45.46:992][ 39]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ganic\Downloads\Running (1).fbx)
+[2025.02.09-16.45.46:999][ 39]LogFbx: Loading FBX Scene from C:\Users\ganic\Downloads\Running (1).fbx
+[2025.02.09-16.45.47:023][ 39]LogFbx: FBX Scene Loaded Succesfully
+[2025.02.09-16.45.51:259][ 39]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.02.09-16.45.51:272][ 39]LogFbx: SortedLinks :(0) Hips
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(1) Spine
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(2) Spine1
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(3) Spine2
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(4) Neck
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(5) Head
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(6) HeadTop_End
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(7) LeftShoulder
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(8) LeftArm
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(9) LeftForeArm
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(10) LeftHand
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(23) LeftHandRing1
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(24) LeftHandRing2
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(25) LeftHandRing3
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(26) LeftHandRing4
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2025.02.09-16.45.51:273][ 39]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(31) RightShoulder
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(32) RightArm
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(33) RightForeArm
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(34) RightHand
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(35) RightHandThumb1
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(36) RightHandThumb2
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(37) RightHandThumb3
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(38) RightHandThumb4
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(39) RightHandIndex1
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(40) RightHandIndex2
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(41) RightHandIndex3
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(42) RightHandIndex4
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(47) RightHandRing1
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(48) RightHandRing2
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(49) RightHandRing3
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(50) RightHandRing4
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(51) RightHandPinky1
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(52) RightHandPinky2
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(53) RightHandPinky3
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(54) RightHandPinky4
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(55) LeftUpLeg
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(56) LeftLeg
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(57) LeftFoot
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(58) LeftToeBase
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(59) LeftToe_End
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(60) RightUpLeg
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(61) RightLeg
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(62) RightFoot
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(63) RightToeBase
+[2025.02.09-16.45.51:274][ 39]LogFbx: SortedLinks :(64) RightToe_End
+[2025.02.09-16.45.51:275][ 39]LogFbx: Parsing AnimStack mixamo.com
+[2025.02.09-16.45.51:349][ 39]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_character/Animation/Running__1_.Running__1_
+[2025.02.09-16.45.51:349][ 39]FBXImport: Warning: The following bones exist in the imported animation, but not in the Skeleton asset Ch14_nonPBR_Skeleton.  Any animation on these bones will not be imported: 
+
+ LeftHandPinky1  
+LeftHandPinky2  
+LeftHandPinky3  
+LeftHandPinky4  
+RightHandPinky1  
+RightHandPinky2  
+RightHandPinky3  
+RightHandPinky4  
+ 
+[2025.02.09-16.45.51:406][ 39]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Main_character/Animation/Running__1_.Running__1_
+[2025.02.09-16.45.52:933][207]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.45.52:940][207]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.46.10:677][908]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Characters/Main_character/Animation/BS_Animation.BS_Animation
+[2025.02.09-16.46.10:679][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.09-16.46.10:968][908]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2025.02.09-16.46.27:756][867]LoadErrors: Error: The BlendSpace  BS_Animation  has sample with no animation. Recommend to remove sample point or set new animation.
+[2025.02.09-16.46.42:051][289]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.46.42:057][289]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.46.52:711][151]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.46.52:739][151]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.47.03:070][301]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.47.03:076][301]LogSlate: Window 'Message Log' being destroyed
+[2025.02.09-16.48.51:696][255]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/BS_Animation75431EFA420FD219A0C1078AD02E4B0F.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Characters/Main_character/Animation/BS_Animation.uasset'
+[2025.02.09-16.48.51:729][255]AssetCheck: New page: Asset Save: BS_Animation
+[2025.02.09-16.48.51:729][255]LogContentValidation: Display: Validating BlendSpace /Game/Characters/Main_character/Animation/BS_Animation.BS_Animation
+[2025.02.09-16.49.19:895][293]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.02.09-16.49.19:898][293]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2025.02.09-16.49.19:918][293]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2025.02.09-16.49.24:194][293]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2025.02.09-16.49.24:202][293]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2025.02.09-16.49.24:215][293]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2025.02.09-16.49.38:758][948]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> BPA_Animation
+[2025.02.09-16.49.38:764][948]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2025.02.09-16.49.41:227][184]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Characters/Main_character/Animation/BPA_Animation.BPA_Animation
+[2025.02.09-16.49.41:248][184]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.02.09-16.49.44:634][491]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.49.44:634][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.49.44:700][491]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.49.44:701][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.52.54:863][842]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2025.02.09-16.53.24:864][311]BlueprintLog: New page: Compile BPA_Animation
+[2025.02.09-16.53.24:991][311]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2025.02.09-16.53.26:548][486]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/BPA_AnimationEEB0FCB64256D61B1FD217A1BF0B0F92.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Characters/Main_character/Animation/BPA_Animation.uasset'
+[2025.02.09-16.53.26:566][486]AssetCheck: New page: Asset Save: BPA_Animation
+[2025.02.09-16.53.26:566][486]LogContentValidation: Display: Validating AnimBlueprint /Game/Characters/Main_character/Animation/BPA_Animation.BPA_Animation
+[2025.02.09-16.53.44:547][568]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.02.09-16.53.44:564][568]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.02.09-16.53.55:414][828]BlueprintLog: New page: Compile BP_Character
+[2025.02.09-16.53.55:492][828]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2025.02.09-16.53.56:252][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Character" FILE="C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Characters/BP_Character.uasset" SILENT=true
+[2025.02.09-16.53.56:268][911]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/BP_Character5C65A372481AEAC2D12734B9DFC844FF.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Characters/BP_Character.uasset'
+[2025.02.09-16.53.56:283][911]AssetCheck: New page: Asset Save: BP_Character
+[2025.02.09-16.53.56:283][911]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Character.BP_Character
+[2025.02.09-16.54.20:047][593]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.09-16.54.20:051][593]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.02.09-16.54.20:052][593]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2025.02.09-16.54.20:093][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2025.02.09-16.54.20:095][593]LogPlayLevel: PlayLevel: Blueprint regeneration took 43 ms (1 blueprints)
+[2025.02.09-16.54.20:095][593]PIE: New page: PIE session: StartGame (Feb 9, 2025, 10:54:20 PM)
+[2025.02.09-16.54.20:121][593]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.54.20:122][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001769s)
+[2025.02.09-16.54.20:123][593]LogAIModule: Creating AISystem for world StartGame
+[2025.02.09-16.54.20:124][593]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2025.02.09-16.54.20:124][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/StartGame.StartGame to /Game/Level/UEDPIE_0_StartGame.StartGame (0.002920s)
+[2025.02.09-16.54.20:158][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2025.02.09-16.54.20:158][593]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.02.09-16.54.20:158][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.09-16.54.20:158][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.09-16.54.20:158][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.09-16.54.20:158][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.09-16.54.20:158][593]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.09-16.54.20:158][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.09-16.54.20:158][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.09-16.54.20:158][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.09-16.54.20:158][593]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.09-16.54.20:158][593]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.09-16.54.20:158][593]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.09-16.54.20:158][593]LogAudioMixer: Display: Initializing audio mixer.
+[2025.02.09-16.54.20:191][593]LogAudioMixer: Display: 0: FrontLeft
+[2025.02.09-16.54.20:191][593]LogAudioMixer: Display: 1: FrontRight
+[2025.02.09-16.54.20:201][593]LogAudioMixer: Display: Using Audio Device Динамики (HyperX Quadcast)
+[2025.02.09-16.54.20:201][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.09-16.54.20:201][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.09-16.54.20:201][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.09-16.54.20:201][593]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.02.09-16.54.20:201][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.02.09-16.54.20:201][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.02.09-16.54.20:202][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.02.09-16.54.20:203][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.02.09-16.54.20:203][593]LogInit: FAudioDevice initialized.
+[2025.02.09-16.54.20:203][593]LogAudio: Display: Audio Device (ID: 22) registered with world 'StartGame'.
+[2025.02.09-16.54.20:215][593]LogLoad: Game class is 'GMB_in_game_C'
+[2025.02.09-16.54.20:216][593]LogPhysics: Warning: Scale for /Game/Level/UEDPIE_0_StartGame.StartGame:PersistentLevel.Cube_2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=6.000 Z=7.500
+[2025.02.09-16.54.20:216][593]LogWorld: Bringing World /Game/Level/UEDPIE_0_StartGame.StartGame up for play (max tick rate 0) at 2025.02.09-19.54.20
+[2025.02.09-16.54.20:216][593]LogWorld: Bringing up level for play took: 0.000483
+[2025.02.09-16.54.20:216][593]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2025.02.09-16.54.20:219][593]PIE: Server logged in
+[2025.02.09-16.54.20:220][593]PIE: Play in editor total start time 0.17 seconds.
+[2025.02.09-16.54.20:220][593]LogInput: Error: Duplicate mapping of key MouseY for axis LookUpDown
+[2025.02.09-16.54.20:220][593]LogInput: Error: Duplicate mapping of key MouseX for axis LookLeftRight
+[2025.02.09-16.54.35:612][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.54.35:612][429]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.54.35:612][429]LogWorld: UWorld::CleanupWorld for StartGame, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-16.54.35:612][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.54.35:622][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.09-16.54.35:628][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-16.54.35:659][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.09-16.54.35:659][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.54.35:660][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-16.54.35:662][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-16.54.35:667][429]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2025.02.09-16.54.35:687][430]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.02.09-16.55.53:540][908]BlueprintLog: New page: Compile BP_Character
+[2025.02.09-16.55.53:602][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2025.02.09-16.55.54:134][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Character" FILE="C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Characters/BP_Character.uasset" SILENT=true
+[2025.02.09-16.55.54:150][961]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/BP_Character1EBFBD9B4E80061DABE4A180A8AFAED2.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Characters/BP_Character.uasset'
+[2025.02.09-16.55.54:166][961]AssetCheck: New page: Asset Save: BP_Character
+[2025.02.09-16.55.54:166][961]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Character.BP_Character
+[2025.02.09-16.59.22:332][187]BlueprintLog: New page: Compile BP_Character
+[2025.02.09-16.59.22:400][187]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2025.02.09-16.59.22:938][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/BP_Character" FILE="C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Characters/BP_Character.uasset" SILENT=true
+[2025.02.09-16.59.22:955][240]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/BP_CharacterD974438E40EBB584721E809262FA12A5.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Content/Characters/BP_Character.uasset'
+[2025.02.09-16.59.22:974][240]AssetCheck: New page: Asset Save: BP_Character
+[2025.02.09-16.59.22:974][240]LogContentValidation: Display: Validating Blueprint /Game/Characters/BP_Character.BP_Character
+[2025.02.09-16.59.55:131][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2025.02.09-16.59.55:135][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.09-16.59.55:135][ 97]PIE: New page: PIE session: StartGame (Feb 9, 2025, 10:59:55 PM)
+[2025.02.09-16.59.55:160][ 97]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-16.59.55:162][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001772s)
+[2025.02.09-16.59.55:163][ 97]LogAIModule: Creating AISystem for world StartGame
+[2025.02.09-16.59.55:163][ 97]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2025.02.09-16.59.55:163][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/StartGame.StartGame to /Game/Level/UEDPIE_0_StartGame.StartGame (0.002966s)
+[2025.02.09-16.59.55:200][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2025.02.09-16.59.55:201][ 97]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.02.09-16.59.55:201][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.09-16.59.55:201][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.09-16.59.55:201][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.09-16.59.55:201][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.09-16.59.55:201][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.02.09-16.59.55:201][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.09-16.59.55:202][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.02.09-16.59.55:202][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.09-16.59.55:202][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.09-16.59.55:202][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.09-16.59.55:202][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.09-16.59.55:202][ 97]LogAudioMixer: Display: Initializing audio mixer.
+[2025.02.09-16.59.55:206][ 97]LogAudioMixer: Display: 0: FrontLeft
+[2025.02.09-16.59.55:206][ 97]LogAudioMixer: Display: 1: FrontRight
+[2025.02.09-16.59.55:215][ 97]LogAudioMixer: Display: Using Audio Device Динамики (HyperX Quadcast)
+[2025.02.09-16.59.55:216][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.09-16.59.55:216][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.09-16.59.55:216][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.09-16.59.55:216][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.02.09-16.59.55:216][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.02.09-16.59.55:216][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.02.09-16.59.55:217][ 97]LogInit: FAudioDevice initialized.
+[2025.02.09-16.59.55:217][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.02.09-16.59.55:217][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.02.09-16.59.55:217][ 97]LogAudio: Display: Audio Device (ID: 23) registered with world 'StartGame'.
+[2025.02.09-16.59.55:224][ 97]LogLoad: Game class is 'GMB_in_game_C'
+[2025.02.09-16.59.55:225][ 97]LogPhysics: Warning: Scale for /Game/Level/UEDPIE_0_StartGame.StartGame:PersistentLevel.Cube_2.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=6.000 Z=7.500
+[2025.02.09-16.59.55:225][ 97]LogWorld: Bringing World /Game/Level/UEDPIE_0_StartGame.StartGame up for play (max tick rate 0) at 2025.02.09-19.59.55
+[2025.02.09-16.59.55:225][ 97]LogWorld: Bringing up level for play took: 0.000476
+[2025.02.09-16.59.55:225][ 97]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2025.02.09-16.59.55:228][ 97]PIE: Server logged in
+[2025.02.09-16.59.55:228][ 97]PIE: Play in editor total start time 0.095 seconds.
+[2025.02.09-16.59.55:229][ 97]LogInput: Error: Duplicate mapping of key MouseY for axis LookUpDown
+[2025.02.09-16.59.55:229][ 97]LogInput: Error: Duplicate mapping of key MouseX for axis LookLeftRight
+[2025.02.09-17.00.14:821][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-17.00.14:821][431]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_StartGame
+[2025.02.09-17.00.14:821][431]LogWorld: UWorld::CleanupWorld for StartGame, bSessionEnded=true, bCleanupResources=true
+[2025.02.09-17.00.14:821][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-17.00.14:829][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.09-17.00.14:835][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.09-17.00.14:867][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.09-17.00.14:867][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-17.00.14:868][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2025.02.09-17.00.14:870][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.09-17.00.14:874][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2025.02.09-17.00.14:896][432]LogPlayLevel: Display: Destroying online subsystem :Context_45
