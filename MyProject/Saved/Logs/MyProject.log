@@ -922,3 +922,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.02.09-14.42.20:066][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2025.02.09-14.42.20:667][  2]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2025.02.09-14.54.02:719][106]LogAssetRegistry: Error: Failed to open file for write C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Intermediate/CachedAssetRegistry.bin.tmp
+[2025.02.09-15.42.26:473][805]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.43.59:544][ 84]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.45.49:617][414]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.46.10:632][477]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.49.15:453][ 31]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.50.57:861][338]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.51.22:536][412]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.53.38:320][819]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.54.16:037][932]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.

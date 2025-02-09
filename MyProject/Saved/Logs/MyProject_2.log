@@ -2805,3 +2805,18 @@ Script Stack (0 frames):
 [2025.02.09-15.39.08:038][435]AssetCheck: New page: Asset Save: multiple assets
 [2025.02.09-15.39.08:038][435]LogContentValidation: Display: Validating World /Game/Level/StartGame.StartGame
 [2025.02.09-15.39.08:038][435]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level/StartGame_BuiltData.StartGame_BuiltData
+[2025.02.09-15.43.59:573][505]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.45.49:769][835]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.46.10:465][897]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.49.08:049][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.02.09-15.49.08:050][428]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/StartGame' took 0.032
+[2025.02.09-15.49.08:051][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/BP_Character] ([2] browsable assets)...
+[2025.02.09-15.49.08:051][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/BP_Character]
+[2025.02.09-15.49.08:063][428]LogSavePackage: Moving 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/BP_Character_Auto312D96555453DC05829CC5FB9238FAD7A.tmp' to 'C:/Users/ganic/OneDrive/Документы/Unreal Projects/UE4G/MyProject/Saved/Autosaves/Game/Characters/BP_Character_Auto3.uasset'
+[2025.02.09-15.49.08:063][428]LogFileHelpers: Auto-saving content packages took 0.013
+[2025.02.09-15.49.15:381][451]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.50.57:888][758]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.51.22:581][832]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.53.03:688][135]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.53.38:381][239]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2025.02.09-15.54.16:073][352]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
